@@ -1,0 +1,46 @@
+{
+  "19050P": {
+    "buy_price": 6,
+    "sell_price": 6.4
+  },
+  "19150C": {
+    "buy_price": 235,
+    "sell_price": 237
+  },
+  "19150P": {
+    "buy_price": 13,
+    "sell_price": 13.5
+  },
+  "19250C": {
+    "buy_price": 154,
+    "sell_price": 155
+  },
+  "19250P": {
+    "buy_price": 30.5,
+    "sell_price": 31
+  },
+  "19350C": {
+    "buy_price": 88,
+    "sell_price": 90
+  },
+  "19350P": {
+    "buy_price": 66,
+    "sell_price": 67
+  },
+  "19450C": {
+    "buy_price": 45,
+    "sell_price": 45.5
+  },
+  "19450P": {
+    "buy_price": 122,
+    "sell_price": 124
+  },
+  "19550C": {
+    "buy_price": 45,
+    "sell_price": 45.5
+  },
+  "19550P": {
+    "buy_price": 122,
+    "sell_price": 124
+  }
+}

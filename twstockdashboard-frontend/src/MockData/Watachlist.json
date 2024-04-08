@@ -1,0 +1,101 @@
+{
+  "新日興": {
+    "code": "3376",
+    "close": 224,
+    "price_range": 16.5,
+    "tick_type": "1",
+    "change_price": 20,
+    "average_price": 216.18,
+    "rank_value": 75.04,
+    "buy_price": 224,
+    "sell_price": 0
+  },
+  "亞力": {
+    "code": "1514",
+    "close": 117,
+    "price_range": 9.5,
+    "tick_type": "1",
+    "change_price": 9.5,
+    "average_price": 114.86,
+    "rank_value": 74.38,
+    "buy_price": 116.5,
+    "sell_price": 117
+  },
+  "晟銘電": {
+    "code": "3013",
+    "close": 60.2,
+    "price_range": 6.2,
+    "tick_type": "1",
+    "change_price": 5.4,
+    "average_price": 58.56,
+    "rank_value": 51.78,
+    "buy_price": 60.2,
+    "sell_price": 0
+  },
+  "川湖": {
+    "code": "2059",
+    "close": 1445,
+    "price_range": 115,
+    "tick_type": "1",
+    "change_price": 105,
+    "average_price": 1407.88,
+    "rank_value": 39.08,
+    "buy_price": 1440,
+    "sell_price": 1445
+  },
+  "華擎": {
+    "code": "3515",
+    "close": 307,
+    "price_range": 25,
+    "tick_type": "1",
+    "change_price": 27.5,
+    "average_price": 296.74,
+    "rank_value": 34.27,
+    "buy_price": 307,
+    "sell_price": 0
+  },
+  "勤誠": {
+    "code": "8210",
+    "close": 284.5,
+    "price_range": 20.5,
+    "tick_type": "2",
+    "change_price": 19.5,
+    "average_price": 279.97,
+    "rank_value": 32.98,
+    "buy_price": 284.5,
+    "sell_price": 285
+  },
+  "致茂": {
+    "code": "2360",
+    "close": 265,
+    "price_range": 23,
+    "tick_type": "2",
+    "change_price": 21,
+    "average_price": 254.4,
+    "rank_value": 22.01,
+    "buy_price": 265,
+    "sell_price": 265.5
+  },
+  "弘塑": {
+    "code": "3131",
+    "close": 999,
+    "price_range": 94,
+    "tick_type": "1",
+    "change_price": 90,
+    "average_price": 969.9,
+    "rank_value": 18.21,
+    "buy_price": 999,
+    "sell_price": 0
+  },
+  "湧德": {
+    "code": "3689",
+    "close": 84.3,
+    "price_range": 7.8,
+    "tick_type": "1",
+    "change_price": 7.6,
+    "average_price": 80.89,
+    "rank_value": 16.79,
+    "buy_price": 84.3,
+    "sell_price": 0
+  }
+}

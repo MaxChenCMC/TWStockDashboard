@@ -1,0 +1,134 @@
+{
+  "台積電": {
+    "code": "2330",
+    "close": 730,
+    "price_range": 10,
+    "tick_type": "2",
+    "change_price": 5,
+    "average_price": 733.35,
+    "rank_value": 472.3,
+    "buy_price": 730,
+    "sell_price": 731
+  },
+  "緯創": {
+    "code": "3231",
+    "close": 121.5,
+    "price_range": 6,
+    "tick_type": "2",
+    "change_price": 5,
+    "average_price": 120.97,
+    "rank_value": 153.85,
+    "buy_price": 121.5,
+    "sell_price": 122
+  },
+  "聯發科": {
+    "code": "2454",
+    "close": 1155,
+    "price_range": 30,
+    "tick_type": "2",
+    "change_price": 5,
+    "average_price": 1150.08,
+    "rank_value": 96.79,
+    "buy_price": 1155,
+    "sell_price": 1160
+  },
+  "鴻海": {
+    "code": "2317",
+    "close": 106.5,
+    "price_range": 2,
+    "tick_type": "2",
+    "change_price": 0,
+    "average_price": 107.37,
+    "rank_value": 81.02,
+    "buy_price": 106.5,
+    "sell_price": 107
+  },
+  "緯穎": {
+    "code": "6669",
+    "close": 2560,
+    "price_range": 140,
+    "tick_type": "2",
+    "change_price": 115,
+    "average_price": 2512.74,
+    "rank_value": 76.86,
+    "buy_price": 2560,
+    "sell_price": 2565
+  },
+  "長榮": {
+    "code": "2603",
+    "close": 173.5,
+    "price_range": 6.5,
+    "tick_type": "1",
+    "change_price": 1.5,
+    "average_price": 173.79,
+    "rank_value": 67.66,
+    "buy_price": 173,
+    "sell_price": 173.5
+  },
+  "廣達": {
+    "code": "2382",
+    "close": 245,
+    "price_range": 7.5,
+    "tick_type": "1",
+    "change_price": 6,
+    "average_price": 243.62,
+    "rank_value": 66.78,
+    "buy_price": 244.5,
+    "sell_price": 245
+  },
+  "台達電": {
+    "code": "2308",
+    "close": 290.5,
+    "price_range": 5,
+    "tick_type": "2",
+    "change_price": -3,
+    "average_price": 291.04,
+    "rank_value": 28.32,
+    "buy_price": 290.5,
+    "sell_price": 291
+  },
+  "聯詠": {
+    "code": "3034",
+    "close": 593,
+    "price_range": 9,
+    "tick_type": "1",
+    "change_price": 1,
+    "average_price": 591.95,
+    "rank_value": 22.76,
+    "buy_price": 592,
+    "sell_price": 593
+  },
+  "聯電": {
+    "code": "2303",
+    "close": 48.75,
+    "price_range": 0.45,
+    "tick_type": "2",
+    "change_price": -0.1,
+    "average_price": 48.72,
+    "rank_value": 21.36,
+    "buy_price": 48.75,
+    "sell_price": 48.8
+  },
+  "日月光投控": {
+    "code": "3711",
+    "close": 144.5,
+    "price_range": 3.5,
+    "tick_type": "2",
+    "change_price": 3,
+    "average_price": 143.87,
+    "rank_value": 19.12,
+    "buy_price": 144.5,
+    "sell_price": 145
+  },
+  "華碩": {
+    "code": "2357",
+    "close": 466,
+    "price_range": 12,
+    "tick_type": "2",
+    "change_price": 9,
+    "average_price": 464.91,
+    "rank_value": 15.77,
+    "buy_price": 466,
+    "sell_price": 466.5
+  }
+}
